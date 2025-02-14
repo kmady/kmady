@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Kartoue Mady Demdah, Ph.D
 
-[![Your Name](your_image_url_here.png)](#)  A passionate Data Scientist and ML Engineer with a Ph.D in Mathematics and Applications. I leverage my strong background in data science, statistics, computer vision, and NLP to solve real-world business problems.
+[![Your Name](https://avatars.githubusercontent.com/u/30731043?v=4)](#)  
+
+A passionate Data Scientist and ML Engineer with a Ph.D in Mathematics and Applications. I leverage my strong background in data science, statistics, computer vision, and NLP to solve real-world business problems.
 
 **What I'm currently working on:**
 
-* [Project 1 Name (Optional -  Add a brief description and link if available)]
-* [Project 2 Name (Optional - Add a brief description and link if available)]
-* Exploring and deepening my expertise in [Mention a specific area, e.g., MLOps, or a new technology].
+* Exploring and deepening my expertise in Data Engineering.
 
 **What I'm interested in:**
 
