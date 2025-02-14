@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kartoue Mady Demdah, Ph.D
 
-A passionate Data Scientist and ML Engineer with a Ph.D in Mathematics and Applications. I leverage my strong background in data science, statistics, computer vision, and NLP to solve real-world business problems.
+[![Your Name](your_image_url_here.png)](#)  A passionate Data Scientist and ML Engineer with a Ph.D in Mathematics and Applications. I leverage my strong background in data science, statistics, computer vision, and NLP to solve real-world business problems.
 
 **What I'm currently working on:**
 
@@ -10,20 +10,20 @@ A passionate Data Scientist and ML Engineer with a Ph.D in Mathematics and Appli
 
 **What I'm interested in:**
 
-* Machine Learning and Deep Learning
-* Computer Vision
-* Natural Language Processing (NLP)
-* MLOps and deploying models to production
-* Solving challenging real-world problems with data-driven solutions
+* :chart_with_upwards_trend: Machine Learning and Deep Learning
+* :computer: Computer Vision
+* :speaking_head: Natural Language Processing (NLP)
+* :rocket: MLOps and deploying models to production
+* :bulb: Solving challenging real-world problems with data-driven solutions
 
 **Technologies I use:**
 
-* **Languages:** Python, SQL
+* **Languages:** Python :snake:, SQL :database:
 * **Python Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, OpenCV, Geopy, Flask, Networkx
 * **Deep Learning Frameworks:** TensorFlow, TFLite, PyTorch, Keras, PyTorch-Geometric
-* **Cloud Computing:** AWS, Azure
-* **MLOps Tools:** MLflow, TensorFlow Serving, Docker, Kubeflow
-* **Other:** Git, GitHub
+* **Cloud Computing:** AWS :cloud:, Azure :cloud:
+* **MLOps Tools:** MLflow, TensorFlow Serving, Docker :whale:, Kubeflow
+* **Other:** Git :octocat:, GitHub
 
 **Let's connect!**
 
@@ -31,11 +31,11 @@ A passionate Data Scientist and ML Engineer with a Ph.D in Mathematics and Appli
 
 **My GitHub Stats (Optional - Use a GitHub Stats Card Generator):**
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)  *(Replace `YOUR_GITHUB_USERNAME` with your actual username)*
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmady&show_icons=true&theme=radical)](https://github.com/kmady)  
 
 **Recent Activity (Optional - Use a GitHub Activity Graph Generator):**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=1A1B27)](https://github.com/YOUR_GITHUB_USERNAME) *(Replace `YOUR_GITHUB_USERNAME` with your actual username)*
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=kmady&theme=dark&background=1A1B27)](https://github.com/kmady) 
 
 **A little about me:**
 
