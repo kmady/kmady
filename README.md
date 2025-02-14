@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Kartoue Mady Demdah, Ph.D
 
-[![Your Name](https://avatars.githubusercontent.com/u/30731043?v=4)](#)  
+![image](https://github.com/user-attachments/assets/54fc9c0f-d8d4-472d-a863-fd89e9f83213)
+
 
 A passionate Data Scientist and ML Engineer with a Ph.D in Mathematics and Applications. I leverage my strong background in data science, statistics, computer vision, and NLP to solve real-world business problems.
 
